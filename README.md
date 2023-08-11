@@ -1,7 +1,7 @@
 # Delivery-Demon
 Funny top-down driving game - My First Time Creating A Game
 
-This project is a 2D driving game written using the Unity game engine. This game was built primarily for self-educational purposes with guidance from this tutorial https://www.udemy.com/course/unitycourse/.
+This project is a 2D driving game written using the Unity game engine. This game was built primarily for self-educational purposes with guidance from [this tutorial](https://www.udemy.com/course/unitycourse/)
 
 ### Gameplay Features
 
@@ -15,4 +15,4 @@ This project is a 2D driving game written using the Unity game engine. This game
 
 ### Gameplay Demo 
 
-https://drive.google.com/file/d/1N24C_aCVFfwNA1B4OPMGUdjeTQ1_KUzK/view?usp=drive_link
+https://drive.google.com/file/d/1pwZKYZGwVqm4CAsC4BgrkO8bta978qKK/view?usp=drive_link
