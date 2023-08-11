@@ -17,5 +17,6 @@ This project is a 2D driving game written using the Unity game engine. This game
 - Video 
 https://drive.google.com/file/d/1pwZKYZGwVqm4CAsC4BgrkO8bta978qKK/view?usp=drive_link
 
-- Cover Image
+- Gamplay Image
 - ![delivery-demon-cover-image](https://github.com/LadyKillerr/Delivery-Demon/assets/107382099/2ef7776b-f8e4-47e5-9604-a47e66b7e731)
+- ![image](https://github.com/LadyKillerr/Delivery-Demon/assets/107382099/0a31f3ab-6eb9-4587-89b6-022339f8708a)
