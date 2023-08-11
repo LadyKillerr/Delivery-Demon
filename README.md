@@ -5,12 +5,12 @@ This project is a 2D driving game written using the Unity game engine. This game
 
 Gameplay Features
 
-You are a delivery car trying to serve dishes to customers with an empty stomach, do your best to collect tasty dishes and bring them to all your customers. 
+- You are a delivery car trying to serve dishes to customers with an empty stomach, do your best to collect tasty dishes and bring them to all your customers. 
 
-Pick up tasty dishes and deliver them to hungry customers waiting at the front door.
+- Pick up tasty dishes and deliver them to hungry customers waiting at the front door.
 
-Pick up fruits on the way to have a boost in speed and avoid road obstacles like tires or bushes.
+- Pick up fruits on the way to have a boost in speed and avoid road obstacles like tires or bushes.
 
-There are 11 hungry customers waiting to be fed. See if you can help them all!
+- There are 11 hungry customers waiting to be fed. See if you can help them all!
 
 
