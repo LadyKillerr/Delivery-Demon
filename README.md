@@ -21,12 +21,13 @@ This project is a 2D driving game written using the Unity game engine. This game
 - ![image](https://github.com/LadyKillerr/Delivery-Demon/assets/107382099/7e3251dc-2b2d-4472-b44f-a2bb0bd0f1bf)
 - ![image](https://github.com/LadyKillerr/Delivery-Demon/assets/107382099/0a31f3ab-6eb9-4587-89b6-022339f8708a)
 
-## Things i have learned making this small funny game: 
+## Things i have learned while making this small funny game: 
 - Implementing methods into game object(the player's car for example)
 - Using Transform, translate, Rotate to control a game object
 - Using Variables and SerializeField to be able to modify a variable in the inspector
 - Using Colliders and Rigidbodies to add basic physics into the game
 - Adding Assets to the game to make it playable
+- Design a basic game level
 - How to create a component and to acess it using GetComponent
 - Using If statements & Tags, how to destroy a game object..
   # And so many more...
