@@ -8,9 +8,9 @@ namespace Driver
     {
         // Car speed
         [SerializeField] float steerSpeed = 150f;
-        [SerializeField] float moveSpeed = 10f;
-        [SerializeField] float slowSpeed = 7f;
-        [SerializeField] float boostSpeed = 12f;
+        [SerializeField] float moveSpeed = 8f;
+        [SerializeField] float slowSpeed = 6f;
+        [SerializeField] float boostSpeed = 10f;
 
         // Car color on Collision
         [SerializeField] Color32 carBrokenColor = new Color32(253, 83, 83, 255);
