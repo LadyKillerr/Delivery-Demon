@@ -16,7 +16,7 @@ namespace Driver
         [SerializeField] Color32 carBrokenColor = new Color32(253, 83, 83, 255);
         [SerializeField] Color32 noPackageColor = new Color32(255, 255, 255, 255);
 
-        
+        float destroyDelay = 0.2f;
         SpriteRenderer spriteRenderer;
         void Start()
         {
@@ -41,7 +41,7 @@ namespace Driver
                 Debug.Log("You got a boost! Your car is fixed and back in tip-top shape!");
                 moveSpeed = boostSpeed;
                 spriteRenderer.color = noPackageColor;
-                Destroy(other.gameObject, 0.2f);
+                Destroy(other.gameObject, destroyDelay);
             }
 
             if (other.CompareTag("Bumps"))
@@ -49,7 +49,7 @@ namespace Driver
                 Debug.Log("You have hit a bumps");
                 moveSpeed = slowSpeed;
                 
-                Destroy(other.gameObject, 0.2f);
+                Destroy(other.gameObject, destroyDelay);
                 spriteRenderer.color = carBrokenColor;
 
             }
