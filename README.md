@@ -15,7 +15,7 @@ This project is a 2D driving game written using the Unity game engine. This game
 
 ### Gameplay Demo 
 - Video
-- <iframe src="https://drive.google.com/file/d/1pwZKYZGwVqm4CAsC4BgrkO8bta978qKK/view?usp=sharing" width="640" height="480"></iframe>
+- <iframe src="https://drive.google.com/file/d/1pwZKYZGwVqm4CAsC4BgrkO8bta978qKK/preview" width="640" height="480"></iframe>
 - https://drive.google.com/file/d/1pwZKYZGwVqm4CAsC4BgrkO8bta978qKK/view?usp=sharing
 
 - Gamplay Image
