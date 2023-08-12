@@ -28,6 +28,7 @@ This project is a 2D driving game written using the Unity game engine. This game
 - Using Colliders and Rigidbodies to add basic physics into the game
 - Adding Assets to the game to make it playable
 - Design a basic game level
+- Learned about Triggers, Colliders...
 - How to create a component and to acess it using GetComponent
 - Using If statements & Tags, how to destroy a game object..
   # And so many more...
