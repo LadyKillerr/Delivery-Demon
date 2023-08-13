@@ -30,5 +30,6 @@ This project is a 2D driving game written using the Unity game engine. This game
 - Design a basic game level
 - Learned about Triggers, Colliders...
 - How to create a component and to acess it using GetComponent
+- Simple Follow Camera
 - Using If statements & Tags, how to destroy a game object..
   # And so many more...
