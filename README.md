@@ -14,6 +14,7 @@ This project is a 2D driving game written using the Unity game engine. This game
 - There are 11 hungry customers waiting to be fed. See if you can help them all!
 
 ### Gameplay Demo 
+- [Try it out right here!](https://lady-killer.itch.io/jell-o-delivery)
 - [Video demo](https://drive.google.com/file/d/1pwZKYZGwVqm4CAsC4BgrkO8bta978qKK/preview)
 
 - ## Gamplay Image
